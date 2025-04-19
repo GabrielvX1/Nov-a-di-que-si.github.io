@@ -41,14 +41,14 @@
 </head>
 <body>
     <div class="carta">
-        <h2>Hola Sofiwis 🦝❤️</h2>
+        <h2>Hola novitaaa🦝❤️</h2>
         <p>¿Quieres salir conmigo este fin de semana?</p>
         <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" class="gato" alt="Gatito animado">
         <br>
         <button class="boton" onclick="aceptar()">Sí</button>
     </div><script>
     function aceptar() {
-        alert("¡Genial! Nos vemos pronto ♥");
+        alert("¡Genial! Nos vemos en julio♥");
     }
 </script>
 
